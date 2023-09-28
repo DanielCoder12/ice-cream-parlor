@@ -1,0 +1,14 @@
+body {
+    background-color: beige;
+
+}
+
+img {
+    height: 30vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+.flexpls {
+    display: flex;
+}
